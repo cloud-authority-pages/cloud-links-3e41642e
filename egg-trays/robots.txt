@@ -1,15 +1,25 @@
-# robots.txt
-# Policy: ALLOW ALL crawlers (search engines, SEO tools, AI bots)
-# Clients verify backlinks via Ahrefs/Semrush/Majestic — blocking these defeats the purpose
-# Only pure bulk training harvesters with zero citation/indexing value are blocked
-# --- DEFAULT: ALLOW ALL CRAWLERS ---
 User-agent: *
 Allow: /
-# --- PURE TRAINING HARVESTERS ONLY (blocked — no citation or SEO value) ---
-User-agent: CCBot
-Disallow: /
-User-agent: Diffbot
-Disallow: /
-User-agent: Bytespider
-Disallow: /
-Sitemap: https://pub-2f92044261534bbcbe485687cc521feb.r2.dev/campaigns/3e41642e/html/vaalpac/sitemap.xml
+
+Sitemap: https://cloud-authority-pages.github.io/cloud-links-3e41642e/egg-trays/sitemap.xml
+
+https://cloud-authority-pages.github.io/cloud-links-3e41642e/egg-trays/3e41642e--egg-box.html
+https://cloud-links-use2.s3.us-east-2.amazonaws.com/egg-trays/3e41642e/where-can-i-buy-empty-egg-boxes-near-me.html
+https://authority.gitlab.io/cloud-links-3e41642e/egg-trays/3e41642e--egg-packaging.html
+https://cloud-links-3e41642e.netlify.app/egg-trays/3e41642e--egg-trays-for-sale.html
+https://cab-r2-proxy.cabcdn.workers.dev/egg-trays/egg-box-vereenigin-0cac78/egg-cartons.html
+https://pub-4b4f2d6453204a1db2dc8212eadb68ba.r2.dev/egg-trays/3e41642e/cardboard-egg-holders.html
+https://cloud-links-3e41642e.vercel.app/egg-trays/3e41642e--reusable-egg-containers
+https://cloud-links.s3.us-south.cloud-object-storage.appdomain.cloud/egg-trays/3e41642e/farm-fresh-egg-boxes.html
+https://s3.us-east-1.wasabisys.com/linkhub/egg-trays/3e41642e/bulk-egg-packaging.html
+https://cloud-links.neocities.org/egg-trays/egg-box-vereenigin-0cac78--recyclable-egg-crates.html
+https://cloud-links-3e41642e-b59ed1.surge.sh/egg-trays/3e41642e--poultry-egg-trays.html
+https://cloudlinks.fsn1.your-objectstorage.com/egg-trays/3e41642e/stackable-egg-boxes.html
+https://cloud-links.ewr1.vultrobjects.com/egg-trays/3e41642e/eco-friendly-egg-cartons.html
+https://0kfoc.upcloudobjects.com/cloud-links/egg-trays/3e41642e/empty-egg-holders.html
+https://cloud-links.s3.filebase.io/egg-trays/3e41642e/plastic-egg-boxes.html
+https://cloud-links.sos-ch-dk-2.exo.io/egg-trays/3e41642e/wholesale-egg-trays.html
+https://cloud-links.s3.ap-southeast-2.onidel.cloud/egg-trays/3e41642e/egg-transport-boxes.html
+https://cloud-links.ap-southeast-mys1.oss.ips1cloud.com/egg-trays/3e41642e/dozen-egg-boxes.html
+https://cloud-links.s3-eu-central-1.ionoscloud.com/egg-trays/3e41642e/paper-pulp-egg-trays.html
+https://cloud-links.s3.eu-west-par.io.cloud.ovh.net/egg-trays/3e41642e/protective-egg-packaging.html
